@@ -1,0 +1,12 @@
+M:\Quiet Homunculus\Documents\Visual studio 2015\Projects\es calc\es calc\bin\Debug\es calc.exe.config
+M:\Quiet Homunculus\Documents\Visual studio 2015\Projects\es calc\es calc\bin\Debug\es calc.exe
+M:\Quiet Homunculus\Documents\Visual studio 2015\Projects\es calc\es calc\bin\Debug\es calc.pdb
+M:\Quiet Homunculus\Documents\Visual studio 2015\Projects\es calc\es calc\obj\Debug\es calc.csprojResolveAssemblyReference.cache
+M:\Quiet Homunculus\Documents\Visual studio 2015\Projects\es calc\es calc\obj\Debug\es_calc.Form1.resources
+M:\Quiet Homunculus\Documents\Visual studio 2015\Projects\es calc\es calc\obj\Debug\es_calc.Properties.Resources.resources
+M:\Quiet Homunculus\Documents\Visual studio 2015\Projects\es calc\es calc\obj\Debug\es calc.csproj.GenerateResource.Cache
+M:\Quiet Homunculus\Documents\Visual studio 2015\Projects\es calc\es calc\obj\Debug\es calc.exe
+M:\Quiet Homunculus\Documents\Visual studio 2015\Projects\es calc\es calc\obj\Debug\es calc.pdb
+M:\Quiet Homunculus\Documents\Visual studio 2015\Projects\es calc\es calc\bin\Debug\aa\es calc.resources.dll
+M:\Quiet Homunculus\Documents\Visual studio 2015\Projects\es calc\es calc\obj\Debug\es_calc.Form1.aa.resources
+M:\Quiet Homunculus\Documents\Visual studio 2015\Projects\es calc\es calc\obj\Debug\aa\es calc.resources.dll
